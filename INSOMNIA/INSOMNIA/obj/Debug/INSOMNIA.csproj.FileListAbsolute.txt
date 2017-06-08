@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\INSOMNIA\INSOMNIA\bin\Debug\INSOMNIA.exe.config
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\INSOMNIA\INSOMNIA\obj\Debug\INSOMNIA.csprojResolveAssemblyReference.cache
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\INSOMNIA\INSOMNIA\bin\Debug\INSOMNIA.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\INSOMNIA\INSOMNIA\bin\Debug\INSOMNIA.pdb
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\INSOMNIA\INSOMNIA\obj\Debug\INSOMNIA.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\INSOMNIA\INSOMNIA\obj\Debug\INSOMNIA.pdb

@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\CountryLeader\CountryLeader\bin\Debug\CountryLeader.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\CountryLeader\CountryLeader\bin\Debug\CountryLeader.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\CountryLeader\CountryLeader\bin\Debug\CountryLeader.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\CountryLeader\CountryLeader\obj\Debug\CountryLeader.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\CountryLeader\CountryLeader\obj\Debug\CountryLeader.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\CountryLeader\CountryLeader\obj\Debug\CountryLeader.csprojResolveAssemblyReference.cache

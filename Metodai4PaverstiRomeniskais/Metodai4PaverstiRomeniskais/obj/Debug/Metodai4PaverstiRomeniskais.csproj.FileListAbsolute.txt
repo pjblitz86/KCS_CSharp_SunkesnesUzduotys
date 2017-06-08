@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\Metodai4PaverstiRomeniskais\Metodai4PaverstiRomeniskais\bin\Debug\Metodai4PaverstiRomeniskais.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\Metodai4PaverstiRomeniskais\Metodai4PaverstiRomeniskais\bin\Debug\Metodai4PaverstiRomeniskais.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\Metodai4PaverstiRomeniskais\Metodai4PaverstiRomeniskais\bin\Debug\Metodai4PaverstiRomeniskais.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\Metodai4PaverstiRomeniskais\Metodai4PaverstiRomeniskais\obj\Debug\Metodai4PaverstiRomeniskais.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\Metodai4PaverstiRomeniskais\Metodai4PaverstiRomeniskais\obj\Debug\Metodai4PaverstiRomeniskais.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\Metodai4PaverstiRomeniskais\Metodai4PaverstiRomeniskais\obj\Debug\Metodai4PaverstiRomeniskais.pdb
